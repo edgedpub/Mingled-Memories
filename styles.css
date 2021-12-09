@@ -1,40 +1,15 @@
-#bakery-invoice{
-    box-shadow: 0 0 1in -0.5in rgba(0, 0, 0, 1);
-    padding: 20px 20px 20px 20px;
-    margin: 0 auto;
-    width: 300px;
-    background: #ffffff;
-    font-size: 12px;
-}
-
-h2{
-    font-family: Georgia, 'Times New Roman', Times, serif; 
-    font-style: italic; 
-    font-size: 24px; 
-}
-#bakery-invoice .name{  
-    text-align: center;
-}
-
-#bakery-invoice .tabletitle .item{
-    text-align: left; 
-    width: 180px; 
-}
-
-#bakery-invoice .tabletitle .quantity{
-    text-align: left; 
-    width: 100px; 
-}
-
-#bakery-invoice .tabletitle .rate{
-    text-align: left; 
-}
-
-#bakery-invoice .Wording{
-    text-align: left; 
-    color: red; 
-}
-
-#bakery-invoice .payment{
-    text-align: left; 
-}
+canvas {
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				background: transparent;
+			}
+			#background {
+				z-index: -2;
+			}
+			#main {
+				z-index: -1;
+			}
+			#ship {
+				z-index: 0;
+			}  
