@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 16.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Mingled Memories</dc:title>
+		<dc:creator>Daniele Giampà</dc:creator>
+		<dc:description>epub3 with qr codes and ar images</dc:description>
+		<dc:publisher>EDGE DPUB LTD</dc:publisher>
+		<dc:date>2022-02-06T15:19:21Z</dc:date>
+		<dc:language>en-GB</dc:language>
+		<meta property="dcterms:modified">2022-02-06T15:19:22Z</meta>
+		<dc:identifier id="bookid">urn:uuid:ADFD39B2-81CF-4A8D-B933-B424BD3E0391</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">portrait</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="Mingled_Memories_EPUB-1" href="Mingled_Memories_EPUB-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-2" href="Mingled_Memories_EPUB-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="Mingled_Memories_EPUB-3" href="Mingled_Memories_EPUB-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="Mingled_Memories_EPUB-4" href="Mingled_Memories_EPUB-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-5" href="Mingled_Memories_EPUB-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-6" href="Mingled_Memories_EPUB-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-7" href="Mingled_Memories_EPUB-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-8" href="Mingled_Memories_EPUB-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-9" href="Mingled_Memories_EPUB-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-10" href="Mingled_Memories_EPUB-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-11" href="Mingled_Memories_EPUB-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-12" href="Mingled_Memories_EPUB-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-13" href="Mingled_Memories_EPUB-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-14" href="Mingled_Memories_EPUB-14.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-15" href="Mingled_Memories_EPUB-15.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-16" href="Mingled_Memories_EPUB-16.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-17" href="Mingled_Memories_EPUB-17.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-18" href="Mingled_Memories_EPUB-18.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-19" href="Mingled_Memories_EPUB-19.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-20" href="Mingled_Memories_EPUB-20.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-21" href="Mingled_Memories_EPUB-21.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-22" href="Mingled_Memories_EPUB-22.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-23" href="Mingled_Memories_EPUB-23.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Mingled_Memories_EPUB-24" href="Mingled_Memories_EPUB-24.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="ArialNarrow-Bold.ttf" href="font/ArialNarrow-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="ArialNarrow-Italic.ttf" href="font/ArialNarrow-Italic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="ArialNarrow.ttf" href="font/ArialNarrow.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x27.png" href="image/27.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x33.png" href="image/33.png" media-type="image/png" />
+		<item id="x35.png" href="image/35.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x44.png" href="image/44.png" media-type="image/png" />
+		<item id="x47.png" href="image/47.png" media-type="image/png" />
+		<item id="x49.png" href="image/49.png" media-type="image/png" />
+		<item id="x52.png" href="image/52.png" media-type="image/png" />
+		<item id="x53.png" href="image/53.png" media-type="image/png" />
+		<item id="x66.png" href="image/66.png" media-type="image/png" />
+		<item id="x67.png" href="image/67.png" media-type="image/png" />
+		<item id="x76.png" href="image/76.png" media-type="image/png" />
+		<item id="x83.png" href="image/83.png" media-type="image/png" />
+		<item id="ambulance-vehicle.png" href="image/ambulance-vehicle.png" media-type="image/png" />
+		<item id="Cover.png" href="image/Cover.png" media-type="image/png" />
+		<item id="Fridge.png" href="image/Fridge.png" media-type="image/png" />
+		<item id="galloping-horse.png" href="image/galloping-horse.png" media-type="image/png" />
+		<item id="invoice.png" href="image/invoice.png" media-type="image/png" />
+		<item id="Lamp.png" href="image/Lamp.png" media-type="image/png" />
+		<item id="Pascal_and_the_TV.png" href="image/Pascal_and_the_TV.png" media-type="image/png" />
+		<item id="Pascal_on_the_couch.png" href="image/Pascal_on_the_couch.png" media-type="image/png" />
+		<item id="Phone.png" href="image/Phone.png" media-type="image/png" />
+		<item id="Printer_and_Pascal.png" href="image/Printer_and_Pascal.png" media-type="image/png" />
+		<item id="Printer_and_Pascal1.png" href="image/Printer_and_Pascal1.png" media-type="image/png" />
+		<item id="Printer.png" href="image/Printer.png" media-type="image/png" />
+		<item id="spaceshooter-game.png" href="image/spaceshooter-game.png" media-type="image/png" />
+		<item id="tuktuk.png" href="image/tuktuk.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="Mingled_Memories_EPUB-1" />
+		<itemref idref="Mingled_Memories_EPUB-2" />
+		<itemref idref="Mingled_Memories_EPUB-3" />
+		<itemref idref="Mingled_Memories_EPUB-4" />
+		<itemref idref="Mingled_Memories_EPUB-5" />
+		<itemref idref="Mingled_Memories_EPUB-6" />
+		<itemref idref="Mingled_Memories_EPUB-7" />
+		<itemref idref="Mingled_Memories_EPUB-8" />
+		<itemref idref="Mingled_Memories_EPUB-9" />
+		<itemref idref="Mingled_Memories_EPUB-10" />
+		<itemref idref="Mingled_Memories_EPUB-11" />
+		<itemref idref="Mingled_Memories_EPUB-12" />
+		<itemref idref="Mingled_Memories_EPUB-13" />
+		<itemref idref="Mingled_Memories_EPUB-14" />
+		<itemref idref="Mingled_Memories_EPUB-15" />
+		<itemref idref="Mingled_Memories_EPUB-16" />
+		<itemref idref="Mingled_Memories_EPUB-17" />
+		<itemref idref="Mingled_Memories_EPUB-18" />
+		<itemref idref="Mingled_Memories_EPUB-19" />
+		<itemref idref="Mingled_Memories_EPUB-20" />
+		<itemref idref="Mingled_Memories_EPUB-21" />
+		<itemref idref="Mingled_Memories_EPUB-22" />
+		<itemref idref="Mingled_Memories_EPUB-23" />
+		<itemref idref="Mingled_Memories_EPUB-24" />
+	</spine>
+</package>
